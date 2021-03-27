@@ -20,7 +20,7 @@ def main():
     shop = pygame.image.load('assets/gfx/shop2.png')
     shop_bg = pygame.image.load('assets/gfx/shop_bg.png')
     retry_button = pygame.image.load('assets/gfx/retry_button.png')
-    logo = pygame.image.load('assets/gfx/logo.png')
+    logo = pygame.image.load('assets/gfx/logostjump2.png')
     title_bg = pygame.image.load('assets/gfx/bg.png')
     title_bg.fill((255, 30.599999999999998, 0.0), special_flags=pygame.BLEND_ADD)
     #get sounds
